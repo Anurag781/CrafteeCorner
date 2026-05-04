@@ -5,14 +5,16 @@
 <h1 align="center">🧶 Craftee Corner</h1>
 
 <p align="center">
-  A modern handcrafted brand website designed to deliver a clean, aesthetic, and conversion-focused user experience.
+  A modern handcrafted brand website delivering a clean, aesthetic, and conversion-focused user experience.
 </p>
 
 <p align="center">
   <a href="https://anurag781.github.io/CrafteeCorner/">
     <img src="https://img.shields.io/badge/Live%20Website-Visit-ec4899?style=for-the-badge" />
   </a>
+  <img src="https://img.shields.io/github/stars/Anurag781/CrafteeCorner?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Client%20Project-Yes-6366f1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/License-All%20Rights%20Reserved-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Responsive-Yes-22c55e?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Built%20With-TailwindCSS-38bdf8?style=for-the-badge" />
 </p>
@@ -33,12 +35,12 @@ The objective was to create a visually appealing and user-friendly platform wher
 
 ## 📊 Impact & Results
 
-* Delivered a **clean and professional digital presence** for a handmade brand
-* Improved **product visibility and presentation** through structured layout
+* Delivered a **professional digital presence** for a handmade brand
+* Improved **product visibility** through structured layout
 * Enabled **direct customer conversion** via WhatsApp integration
-* Built a **mobile-first experience** aligned with social media traffic
-* Designed for **scalability**, allowing easy product updates and expansion
-  
+* Built a **mobile-first experience** aligned with social traffic
+* Designed for **easy scalability and updates**
+
 ---
 
 ## 🎨 Case Study
@@ -55,15 +57,15 @@ Designed and developed a responsive website focused on:
 
 * Clean product presentation
 * Simple navigation
-* Direct communication through WhatsApp
+* Direct communication via WhatsApp
 
 ---
 
 ### ⚙️ Implementation
 
 * Built using **HTML, Tailwind CSS, and JavaScript**
-* Created reusable product card structure
-* Integrated direct messaging flow for faster conversions
+* Created reusable product components
+* Integrated direct messaging for faster conversions
 
 ---
 
@@ -71,7 +73,7 @@ Designed and developed a responsive website focused on:
 
 * Improved user experience across devices
 * Simplified the ordering process
-* Created a strong visual identity for the brand
+* Strengthened the brand’s visual identity
 
 ---
 
@@ -79,8 +81,8 @@ Designed and developed a responsive website focused on:
 
 * Focused on **minimal and aesthetic UI design**
 * Built with a **mobile-first responsive layout**
-* Optimized for **fast performance and smooth navigation**
-* Structured to support **easy future updates**
+* Optimized for **performance and smooth navigation**
+* Structured for **easy maintenance and scalability**
 
 ---
 
@@ -118,7 +120,7 @@ Designed and developed a responsive website focused on:
 
 ## 📁 Project Structure
 
-```plaintext id="structpro"
+```plaintext
 craftee-corner/
 │
 ├── index.html
@@ -142,7 +144,7 @@ craftee-corner/
 
 ### 📱 Updating WhatsApp Number
 
-```plaintext id="structpro2"
+```plaintext
 https://wa.me/<number>
 ```
 
@@ -160,8 +162,9 @@ https://wa.me/<number>
 
 ---
 
-## 📌 Project Note
+## 📜 License
 
-This project reflects a **real-world client implementation**, focusing on usability, design clarity, and performance.
+This project is protected under **All Rights Reserved**.
+Unauthorized use, copying, or distribution is strictly prohibited.
 
 ---
