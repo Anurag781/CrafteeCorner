@@ -12,7 +12,6 @@
   <a href="https://anurag781.github.io/CrafteeCorner/">
     <img src="https://img.shields.io/badge/Live%20Website-Visit-ec4899?style=for-the-badge" />
   </a>
-  <img src="https://img.shields.io/github/stars/Anurag781/craftee-corner?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Client%20Project-Yes-6366f1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Responsive-Yes-22c55e?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Built%20With-TailwindCSS-38bdf8?style=for-the-badge" />
