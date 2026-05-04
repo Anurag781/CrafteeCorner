@@ -595,18 +595,18 @@ html {
 
 /* SECONDARY BUTTON */
 .cta-btn-outline {
-  display: inline-block;
-  border: 2px solid #ff6f91;
-  color: #ff6f91;
-  padding: 14px 28px;
+  border: 2px solid #ec4899;
+  color: #ec4899;
+  padding: 12px 20px;
   border-radius: 999px;
-  font-weight: 600;
-  transition: 0.3s;
+  font-weight: 500;
+  transition: 0.3s ease;
 }
 
 .cta-btn-outline:hover {
-  background: #ff6f91;
+  background: #ec4899;
   color: white;
+  transform: translateY(-2px);
 }
 
 /* FOOTER */
@@ -645,12 +645,39 @@ html {
   transform: translateY(-2px);
 }
 
+.cta-btn {
+  background: #25D366;
+  color: white;
+  padding: 12px 20px;
+  border-radius: 999px;
+  font-weight: 500;
+  transition: 0.3s ease;
+}
+
+.cta-btn:hover {
+  background: #1ebe5d;
+  transform: translateY(-2px);
+}
+
 /* SOCIAL */
 .social-icon {
-  font-size: 20px;
-  transition: 0.3s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  background: #f3f4f6;
+  color: #333;
+  font-size: 18px;
+  transition: all 0.3s ease;
 }
 
 .social-icon:hover {
-  transform: scale(1.2);
+  transform: translateY(-3px);
 }
+
+/* Brand hover colors */
+.social-icon:nth-child(1):hover { background: #25D366; color: white; } /* WhatsApp */
+.social-icon:nth-child(2):hover { background: #E1306C; color: white; } /* Instagram */
+.social-icon:nth-child(3):hover { background: #6b7280; color: white; } /* Email */

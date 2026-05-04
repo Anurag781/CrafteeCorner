@@ -1,5 +1,6 @@
 <footer class="bg-[#0f172a] text-gray-300 pt-14 pb-8">
   <div class="max-w-7xl mx-auto px-6 grid gap-10 md:grid-cols-4">
+
     <!-- BRAND -->
     <div class="text-center md:text-left">
       <h2 class="text-2xl font-semibold text-white mb-3 tracking-wide">
@@ -31,10 +32,7 @@
         <li>
           <a
             href="#"
-            onclick="
-              event.preventDefault();
-              openShipping();
-            "
+            onclick="event.preventDefault(); openShipping();"
             class="footer-link"
           >
             Shipping Policy
@@ -48,10 +46,7 @@
         <li>
           <a
             href="#"
-            onclick="
-              event.preventDefault();
-              openFAQ();
-            "
+            onclick="event.preventDefault(); openFAQ();"
             class="footer-link"
           >
             FAQs
@@ -60,37 +55,46 @@
       </ul>
     </div>
 
-    <!-- CONTACT -->
+    <!-- CONNECT -->
     <div class="text-center md:text-left">
       <h3 class="footer-title">Connect</h3>
 
-      <!-- CTA -->
-      <a
-        href="https://wa.me/917300690955?text=Hi%20I%20want%20to%20order"
-        target="_blank"
-        class="footer-cta block w-full sm:w-fit mx-auto md:mx-0"
-      >
-        💬 WhatsApp Us
-      </a>
-
-      <!-- SOCIAL -->
+      <!-- ICONS -->
       <div class="flex justify-center md:justify-start gap-4 mt-4">
+
+        <!-- WhatsApp -->
+        <a
+          href="https://wa.me/917300690955?text=Hi%20I%20want%20to%20order%20a%20product"
+          target="_blank"
+          class="social-icon"
+          title="WhatsApp"
+        >
+          <i class="fab fa-whatsapp"></i>
+        </a>
+
+        <!-- Instagram -->
         <a
           href="https://instagram.com/craftee_cornerr"
           target="_blank"
           class="social-icon"
           title="Instagram"
-          >📸</a
         >
+          <i class="fab fa-instagram"></i>
+        </a>
 
-        <a href="#contact" class="social-icon" title="Email">💌</a>
+        <!-- Email -->
+        <a href="#contact" class="social-icon" title="Email">
+          <i class="fas fa-envelope"></i>
+        </a>
+
       </div>
 
       <!-- TRUST LINE -->
-      <p class="text-xs text-gray-500 mt-4">
+      <p class="text-xs text-gray-500 mt-4 text-center md:text-left">
         Usually replies within a few hours 💬
       </p>
     </div>
+
   </div>
 
   <!-- SUB FOOTER -->
@@ -98,7 +102,7 @@
     <div
       class="max-w-7xl mx-auto px-6 flex flex-col md:flex-row items-center justify-between gap-3 text-center md:text-left"
     >
-      <!-- LEFT: BRAND -->
+      <!-- LEFT -->
       <div>
         <p class="text-sm text-gray-400">
           © 2026
@@ -112,14 +116,16 @@
         </p>
       </div>
 
-      <!-- RIGHT: DEV CREDIT -->
+      <!-- RIGHT -->
       <a
         href="https://anuragthakurportfolio.netlify.app/"
         target="_blank"
         class="text-[10px] sm:text-xs text-gray-500 opacity-70 hover:opacity-100 transition tracking-wide"
       >
         Designed & Developed by
-        <span class="text-gray-400 hover:text-gray-300"> Anurag Thakur </span>
+        <span class="text-gray-400 hover:text-gray-300">
+          Anurag Thakur
+        </span>
       </a>
     </div>
   </div>
